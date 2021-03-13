@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e235a543-c294-4bf6-8e72-67830f8ff647" name="Default Changelist" comment="" />
+    <list default="true" id="e235a543-c294-4bf6-8e72-67830f8ff647" name="Default Changelist" comment="create hw1.html">
+      <change beforePath="$PROJECT_DIR$/hw1.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1piAMBfEolsuCWEhxORZIYjNCQH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,10 +47,34 @@
       <workItem from="1615655554877" duration="15000" />
       <workItem from="1615655593016" duration="102000" />
       <workItem from="1615655763695" duration="38000" />
+      <workItem from="1615655820347" duration="1032000" />
     </task>
+    <task id="LOCAL-00001" summary="create hw1.html">
+      <created>1615656125619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615656125619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create hw1.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="create hw1.html" />
   </component>
 </project>
